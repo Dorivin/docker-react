@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          STRONG
+          STRONG 2.0, The new thing!
         </p>
         <a
           className="App-link"
